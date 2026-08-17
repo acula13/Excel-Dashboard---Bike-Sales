@@ -47,11 +47,11 @@ Built a single-page dashboard that consolidates the key visualizations. Interact
 
 This allows stakeholders to dynamically explore how different demographic combinations affect purchase behavior.
 
-![Dashboard Overview](Images/dashboard-overview.png)
+![Dashboard Overview](https://raw.githubusercontent.com/acula13/Excel-Dashboard---Bike-Sales/main/Images/dashboard-overview.png)
 
-![Income vs Purchase](Images/income-by-gender.png)
+![Income vs Purchase](https://raw.githubusercontent.com/acula13/Excel-Dashboard---Bike-Sales/main/Images/income-by-gender.png)
 
-![Commute Distance Analysis](Images/commute-distance.png)
+![Commute Distance Analysis](https://raw.githubusercontent.com/acula13/Excel-Dashboard---Bike-Sales/main/Images/commute-distance.png)
 
 ## Key Findings
 
